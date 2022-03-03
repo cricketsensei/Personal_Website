@@ -6,11 +6,12 @@ body{
 img{
   width:100;
   height:100;
-    border-radius: 50%;
+   border-radius: 50%;
     
 }
 #myname{
    font-family: 'Courgette', cursive;
+    color: black;
 }
 #Favorite_food{
      padding:40px;
